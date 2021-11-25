@@ -2,10 +2,18 @@ body
 {
     color: deeppink;
     text-align: center;
-    font-family: "times new roman";
+    font-family: "Courier";
     font-size: 16px;
-    margin: 0;
+    margin: git diff 0;
     padding: 0;
+}
+#cabecera
+{
+    background: maroon;
+    color: wheat;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 #container
 {
